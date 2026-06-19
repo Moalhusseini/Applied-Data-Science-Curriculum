@@ -91,6 +91,7 @@ Project:
 ### Chapter 2: Linear Regression Family
 - Linear Regression
 - Multiple Linear Regression
+- Polynomial Regression
 - Ridge Regression
 - Lasso Regression
 - Elastic Net
